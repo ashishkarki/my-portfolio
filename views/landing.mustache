@@ -1,22 +1,38 @@
-<html>
+<!doctype html>
+<html lang="en">
+
 <head>
-    <title>{{global.site_name}}</title>
+    <title>The Gallery</title>
+    <meta name="description" content="" />
+
+    {{>head}}
 </head>
 
 <body>
-    <img src="{{{page.image_profile}}}" />
-    <h1>{{page.greeting}}</h1>
-    <p>{{page.introduction}}</p>
+    <div class="blocks-page">
+        {{>header2}}
 
-    <h3>Programming Languages</h3>
-    <ol>
-        {{#page.languages}}
-        <li>{{name}}, {{years}} of experience</li>
-        {{/page.languages}}
-    </ol>
+        <section
+            style="background:url('{{{page.hero.img_background}}}=s2048');background-size:cover;background-position:center;">
+            <div class="gradient-div py-3" style="height:76vh">
 
-    {{>form}}
+                <div class="container">
+                    <div class="row justify-content-center header-row">
+                        <div class="col-12 col-md-8 col-lg-7 text-center text-white">
+                            <h1 class="display-3 mt-4">{{page.hero.greeting}}</h1>
+                            <p class="lead text-white mb-4 mt-1">
+                               {{page.hero.introduction}}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
+        {{>footer}}
+    </div>
+
+    {{>scripts}}
 </body>
 
 </html>
