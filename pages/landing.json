@@ -1,10 +1,19 @@
 {
     "hero": {
-        "greeting": "Welcome to my Portfolio site",
-        "introduction": "I am an Experienced Software Developer. I love coding and learning.",
-        "img_background": "https://lh3.googleusercontent.com/C1i_KBLny94Z59lW8aYCntNMN4G6YjhOGT2VgPnxqLIKre_zhm8tjien_L8akTqnnZiHdUYVwC_MteGv4WramMo0HAQ"
+        "greeting": "Welcome to Ashish Karki's Portfolio site",
+        "introduction": "Experienced Software Developer. I believe in continuous learning plus teamwork and delivering value.",
+        "img_profile": "https://lh3.googleusercontent.com/Or05ERfCPH3yj0803rnuCI17yX4SKPnAvucO93-ti1MB65KoptlplLVjlykZBzzbUnkhfLCHmJA4h5XWki8YqmiRzx4",
+        "img_background": "https://lh3.googleusercontent.com/d3X7VSJwyBwinvoMTuYByf0ivjrFhi99yqr1JRRb0OF77S2wVT1Nnz55VHTvOazw9P3EsUxLGSSLAfWt2R-9K31T2w"
     },
-    "image_profile": "https://images.freeimages.com/images/large-previews/7e9/ladybird-1367182.jpg",
+    "gallery": {
+        "img_1": "https://lh3.googleusercontent.com/6zeQ5R0PtDnGGRin73vxqENxMF5zuESTFEXH98AeiHn_Et4HJo6E_nzWuwgnRPOLhI0rqI7BGQXvsyzIDRqzBFrgfA",
+        "img_2": "https://lh3.googleusercontent.com/AFOZsHkV4Wz1qYKGoNF18gBeMF4q6I78HydCjmBk1fd8OLGXDvh88ZmwjvTuvgxVDiaDg0-HkM5NV9WaQ9hxP3F2hw8",
+        "img_3": "https://lh3.googleusercontent.com/L3Xkm77jLXy_FfsO_3C5H9Mcu3Z8QwbTdTWDggw6xgS5Um5Xtg9h56GOBdeJ-8Dp1zvM3h1EyOgVgy45CSUcAfSm",
+        "img_4": "https://lh3.googleusercontent.com/IHd860xF3eXnK2coqtTnsMD0ciXK-BMQ5rLgK320uslofVP-bnFnXix6P35ChHKWhXWGSn798CGY4ZRXsMAaU00V2g",
+        "img_5": "https://lh3.googleusercontent.com/zvs4i1VhDFY6t6dIuOKFn-g_SBWySTAp0v4Ye5Ube6R8vJlJABUMfkvAIR3oIsd1n_8h6c_YN-HzPgm85UAUv9IpaA",
+        "img_6": "https://lh3.googleusercontent.com/J6N5tZLwrnYiQpxlr5CP01symJcenAEY1LL0bhMTrkfqjpKmPWo9KQWUv4f9J3WWxedgCgxdvVqr3OQLKf3LiRqC43I"
+    },
+    "image_profile": "https://lh3.googleusercontent.com/Or05ERfCPH3yj0803rnuCI17yX4SKPnAvucO93-ti1MB65KoptlplLVjlykZBzzbUnkhfLCHmJA4h5XWki8YqmiRzx4",
     "greeting": "Welcome to Ashish Karki's Portfolio site",
     "introduction": "I am an experienced Software Developer",
     "languages": [{
